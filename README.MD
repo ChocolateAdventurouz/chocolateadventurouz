@@ -1,14 +1,48 @@
 # I'm Rel@m! (i don't spell it wrong 😏)
-*My friends say that I look like craig from South Park. Do I really look? Or not?*
+<p align="center">
+  *My friends say that I look like craig from South Park. Do I really look? Or not?*
+</p>
 <br>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31aelp723mazmkouggo3pyt6fj2i&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31aelp723mazmkouggo3pyt6fj2i&redirect=true)
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChocolateAdventurouz&theme=transparent" />
+</p>
+
+<p align="center">
+    <b>Languages:</b>
+    <img src="https://skillicons.dev/icons?i=c,cs,python" />
+</p>
 <br>
-![](https://github-readme-stats.vercel.app/api?username=ChocolateAdventurouz)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChocolateAdventurouz&theme=solarized_dark)
+<p align="center">
+    <b>Scripting:</b>
+    <img src="https://skillicons.dev/icons?i=bash" />
+</p>
+<br>
+<p align="center">
+    <b>Technologies & IDEs:</b>
+    <img src="https://skillicons.dev/icons?i=dotnet,git,visualstudio, linux, md" />
+</p>
 
-## Contact Me
+<br>
 
-- [Telegram](https://t.me/chocolateadventurouz)
-- Discord: ChocolateAdventurouz#2929 or you could join my [Discord server](https://discord.gg/yXsv5asHJR) 😉
-- Email: aggeloskarapatakis@hotmail.com
+<br>
 
+## Contact me via:
+<p align="left">
+  <a href="https://t.me/chocolateadventurouz">
+     <b>Telegram</b>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/yXsv5asHJR">
+    <b>Discord</b>
+  </a>
+</p>
+
+<p align="right">
+  <a href="aggeloskarapatakis@hotmail.com">
+    <b>Email</b>
+  </a>
+</p>

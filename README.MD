@@ -1,6 +1,11 @@
-# I'm Rel@m! (i don't spell it wrong 😏)
+
 <p align="center">
-  *My friends say that I look like craig from South Park. Do I really look? Or not?*
+          __                   
+  _____/ /_  ____  _________ 
+ / ___/ __ \/ __ \/ ___/ __ \
+/ /__/ / / / /_/ / /__/ /_/ /
+\___/_/ /_/\____/\___/\____/ 
+                            
 </p>
 <br>
 
@@ -27,22 +32,3 @@
 <br>
 
 <br>
-
-## Contact me via:
-<p align="left">
-  <a href="https://t.me/chocolateadventurouz">
-     <b>Telegram</b>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/yXsv5asHJR">
-    <b>Discord</b>
-  </a>
-</p>
-
-<p align="right">
-  <a href="aggeloskarapatakis@hotmail.com">
-    <b>Email</b>
-  </a>
-</p>

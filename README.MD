@@ -15,20 +15,7 @@
 </p>
 
 <p align="center">
-    <b>Languages:</b>
-    <img src="https://skillicons.dev/icons?i=c,cs,python,kotlin,git,dotnet,linux,md,github,vscode,visualstudio" />
+    <b></b>
+    <img src="https://skillicons.dev/icons?i=c,cs,python,kotlin,git,dotnet,linux,md,github,vscode,visualstudio,figma,bash" />
 </p>
-<br>
-<p align="center">
-    <b>Scripting:</b>
-    <img src="https://skillicons.dev/icons?i=bash" />
-</p>
-<br>
-<p align="center">
-    <b>Technologies & IDEs:</b>
-    <img src="https://skillicons.dev/icons?i=dotnet,git,visualstudio, linux, md" />
-</p>
-
-<br>
-
 <br>

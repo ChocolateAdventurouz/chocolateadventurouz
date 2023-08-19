@@ -16,7 +16,7 @@
 
 <p align="center">
     <b>Languages:</b>
-    <img src="https://skillicons.dev/icons?i=c,cs,python" />
+    <img src="https://skillicons.dev/icons?i=c,cs,python,kotlin,git,dotnet,linux,md,github,vscode,visualstudio" />
 </p>
 <br>
 <p align="center">

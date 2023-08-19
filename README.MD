@@ -9,10 +9,12 @@
 </p>
 <br>
 
-
+<details>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChocolateAdventurouz&theme=transparent" />
 </p>
+</details>
+
 
 <p align="center">
     <b></b>

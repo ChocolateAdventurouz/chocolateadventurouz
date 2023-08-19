@@ -1,5 +1,6 @@
-# Hi there, I am choco!
+# Hey there 👋!
 
+I am Angelos Karapatakis, a software engineer (at least what i think i am :| ), a high school student with experience in coding and IT for 3 years!
 <br>
 <p align="center">
     <b></b>

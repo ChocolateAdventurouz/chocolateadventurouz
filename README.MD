@@ -5,7 +5,8 @@
     <img src="https://skillicons.dev/icons?i=cs,python,kotlin,git,dotnet,linux,md,github,visualstudio,figma,bash,react,flutter,windows" />
 </p>
 <br>
-I am Aggelos Karapatakis, a software developer (at least what i think i am) and a high school student with experience in coding and technical support for 4 years!
+<p align="center">I am Aggelos Karapatakis, a software developer (at least what i think i am) and a high school student with experience in coding and technical support for 4 years!</p>
+<br>
 <br>
 <p align="center">
 

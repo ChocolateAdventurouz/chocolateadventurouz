@@ -1,6 +1,5 @@
-# Hey there 👋!
 <img src="github-header-image.png"/>
-I am Aggelos Karapatakis, a software engineer (at least what i think i am :| ), a high school student with experience in coding and technical support for 4 years!
+I am Aggelos Karapatakis, a software engineer (at least what i think i am), a high school student with experience in coding and technical support for 4 years!
 <br>
 <p align="center">
     <b></b>

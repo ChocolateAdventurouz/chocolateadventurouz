@@ -7,11 +7,9 @@
 <br>
 I am Aggelos Karapatakis, a software developer (at least what i think i am) and a high school student with experience in coding and technical support for 4 years!
 <br>
-<details>
 <h3><summary>GitHub Stats</summary></h3>
 <p align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=ChocolateAdventurouz&theme=transparent" />
 </p>
-</details>
 <br>

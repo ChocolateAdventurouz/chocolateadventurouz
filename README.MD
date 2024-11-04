@@ -2,7 +2,7 @@
 <br>
 <p align="center">
     <b></b>
-    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,css,git,dotnet,html,sqlite,py,java,androidstudio,figma,firebase,react,md,bash" />
+    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,css,git,dotnet,html,sqlite,py,java,androidstudio,figma,firebase,react,bash" />
 </p>
 <br>
 <p align="center">I am Aggelos Karapatakis, a software developer (at least what i think i am) and a high school student with experience in coding and technical support for 4 years!</p>

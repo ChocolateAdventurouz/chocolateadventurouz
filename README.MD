@@ -1,5 +1,3 @@
-<img src="github-header-image.png"/>
-<br>
 <p align="center">
     <b></b>
     <img src="https://skillicons.dev/icons?i=arduino,c,cpp,css,git,dotnet,html,sqlite,py,java,androidstudio,figma,firebase,react,bash" />
